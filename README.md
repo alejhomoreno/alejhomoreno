@@ -6,11 +6,15 @@
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlejhoMoreno-v2&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge&logo=github" alt="AlejhoMoreno" height="35px"/>
+</p>
+
 ## 🚀 The Mission: Engineering & Innovation
 
-
+<table border="0">
   <tr>
-    <td width="65%" valign="top">
+    <td width="100%" valign="top">
       <h3>⚡ Engineering Solutions & Automating Workflows</h3>
       <p>
         I am a <b>Telecommunications Engineering Student (7th Semester)</b> focused on building scalable backend systems and modern infrastructure. I bridge the gap between stable code and efficient deployment.
@@ -24,7 +28,8 @@
         ✨ <b>Always learning, always building. Let’s connect and create something extraordinary together!</b>
       </p>
     </td>
-   
+  </tr>
+</table>
  
 
 ### 🛠️ My Tech Stack
@@ -45,8 +50,12 @@
 
 ### 🛡️ Networking & Security
 <p align="left">
-  <img src="https://img.shields.io/badge/-Cisco-white?style=flat-square&logo=cisco&logoColor=1BA0D7" height="48px" />
-  <img src="https://img.shields.io/badge/-Fortinet-white?style=flat-square&logo=fortinet&logoColor=EE3124" height="48px" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="35px" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" height="35px" />
+</p>
+
+### 🛠️ Other Tools
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,postman,git" />
   </a>
