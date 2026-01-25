@@ -29,34 +29,34 @@
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://gemini.google.com/share/61bd2def63d2" width="100%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI1NWdmYWFqbG9oNGpnN29iczk4Y29qdzZscXU4dnhpd3F2OXVlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e1lECkyIgtbH70IO0f/giphy.gif" width="100%">
     </td>
   </tr>
 </table>
-<br>
 
-## 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 
-### 💻 Programming & Backend
+#### 💻 Development & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,maven" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,mysql,python,maven" />
   </a>
 </p>
 
-### ☁️ DevOps & Infrastructure
+#### ☁️ DevOps & Cloud
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,terraform,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gcp,linux,terraform" />
   </a>
 </p>
 
-### 🔧 Tools & Networking
+#### 🛡️ Networking & Security
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" />
+    <img src="https://skillicons.dev/icons?i=cisco,fortinet,network,py" />
   </a>
 </p>
+
 
 <br>
 
