@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=AlejhoMoreno&label=PROFILE+VIEWS&color=A37CFE&style=for-the-badge" alt="AlejhoMoreno" height="30px"/> 
-</p>
-
 ## 🚀 The Mission: Engineering & Innovation
 
 
@@ -36,21 +32,23 @@
 #### 💻 Development & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,mysql,python,maven" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python" />
   </a>
 </p>
 
 #### ☁️ DevOps & Cloud
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gcp,linux,terraform" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,gcp,linux" />
   </a>
 </p>
 
-#### 🛡️ Networking & Security
+### 🛡️ Networking & Security
 <p align="left">
+  <img src="https://img.shields.io/badge/-Cisco-white?style=flat-square&logo=cisco&logoColor=1BA0D7" height="48px" />
+  <img src="https://img.shields.io/badge/-Fortinet-white?style=flat-square&logo=fortinet&logoColor=EE3124" height="48px" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cisco,fortinet,network,py" />
+    <img src="https://skillicons.dev/icons?i=arduino,postman,git" />
   </a>
 </p>
 
