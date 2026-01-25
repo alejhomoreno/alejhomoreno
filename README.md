@@ -12,7 +12,7 @@
 
 ## 🚀 The Mission: Engineering & Innovation
 
-<table border="0">
+
   <tr>
     <td width="65%" valign="top">
       <h3>⚡ Engineering Solutions & Automating Workflows</h3>
@@ -28,11 +28,8 @@
         ✨ <b>Always learning, always building. Let’s connect and create something extraordinary together!</b>
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI1NWdmYWFqbG9oNGpnN29iczk4Y29qdzZscXU4dnhpd3F2OXVlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e1lECkyIgtbH70IO0f/giphy.gif" width="100%">
-    </td>
-  </tr>
-</table>
+   
+ 
 
 ### 🛠️ My Tech Stack
 
@@ -58,22 +55,9 @@
 </p>
 
 
-<br>
-
-## 📊 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejhoMoreno&show_icons=true&theme=transparent&title_color=36BCF7&text_color=ffffff&icon_color=A37CFE&border_color=36BCF7" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlejhoMoreno&langs_count=10&theme=transparent&title_color=36BCF7&text_color=ffffff&layout=compact&border_color=36BCF7" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejhoMoreno&theme=transparent&stroke=36BCF7&fire=A37CFE&ring=36BCF7" alt="AlejhoMoreno Streak" />
-</p>
-
-<br>
 
 ## 🐍 Activity Map
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" width="100%"/>
 </p>
+
