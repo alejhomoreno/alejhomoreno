@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm AlejhoMoreno</h1>
 <h3 align="center">Telecommunications Engineering Student | Java Backend Developer | Aspiring DevOps Engineer</h3>
 
@@ -14,7 +13,7 @@
 
 <table border="0">
   <tr>
-    <td width="100%" valign="top">
+    <td width="65%" valign="top">
       <h3>⚡ Engineering Solutions & Automating Workflows</h3>
       <p>
         I am a <b>Telecommunications Engineering Student (7th Semester)</b> focused on building scalable backend systems and modern infrastructure. I bridge the gap between stable code and efficient deployment.
@@ -28,9 +27,11 @@
         ✨ <b>Always learning, always building. Let’s connect and create something extraordinary together!</b>
       </p>
     </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtpamdkcTB1ZXlmNGQ3ZXZrODRwbzM1cjlidG5nZDRlajh6eXhxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Animation">
+    </td>
   </tr>
 </table>
- 
 
 ### 🛠️ My Tech Stack
 
@@ -48,23 +49,20 @@
   </a>
 </p>
 
-### 🛡️ Networking & Security
+#### 🛡️ Networking & Security
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="35px" />
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" height="35px" />
 </p>
 
-### 🛠️ Other Tools
+#### 🛠️ Other Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,postman,git" />
   </a>
 </p>
 
-
-
 ## 🐍 Activity Map
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" width="100%"/>
 </p>
-
