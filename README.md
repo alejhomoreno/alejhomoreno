@@ -5,33 +5,17 @@
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlejhoMoreno-v2&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge&logo=github" alt="AlejhoMoreno" height="35px"/>
-</p>
+## 🚀 Engineering & Development
 
-## 🚀 The Mission: Engineering & Innovation
+### ⚡ Telecommunications Engineering Student & Open Source Contributor
+I am a **7th-semester Telecommunications Engineering student** focused on building scalable backend systems and robust infrastructure. I bridge the gap between stable code and efficient deployment through my active contribution to the **Java and Cloud-Native ecosystem**.
 
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>⚡ Engineering Solutions & Automating Workflows</h3>
-      <p>
-        I am a <b>Telecommunications Engineering Student (7th Semester)</b> focused on building scalable backend systems and modern infrastructure. I bridge the gap between stable code and efficient deployment.
-      </p>
-      <ul>
-        <li>🛠️ <b>Open Source Contributor:</b> Currently making an impact at <b>Keycloak</b>, working on identity and access management solutions.</li>
-        <li>🏗️ <b>Backend Developer:</b> Building and optimizing RESTful services using the <b>Java & Spring Boot</b> ecosystem.</li>
-        <li>☁️ <b>Cloud & DevOps:</b> Actively expanding my expertise in <b>AWS</b> (EC2, S3, IAM) while leveraging my foundations in OCI and GCP.</li>
-      </ul>
-      <p>
-        ✨ <b>Always learning, always building. Let’s connect and create something extraordinary together!</b>
-      </p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtpamdkcTB1ZXlmNGQ3ZXZrODRwbzM1cjlidG5nZDRlajh6eXhxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Animation">
-    </td>
-  </tr>
-</table>
+* **🛠️ Open Source at Keycloak:** Currently contributing to the **Keycloak** project, focusing on Java client generation and Quarkus-based identity solutions. This is where I apply enterprise-level standards to real-world problems.
+* **🏗️ Backend Development:** Building and optimizing RESTful services using **Java & Spring Boot**, with a growing focus on high-performance frameworks like **Quarkus**.
+* **☁️ Cloud Foundations:** Actively implementing projects on **AWS** while leveraging my background in **OCI** and **GCP** to ensure scalable and resilient deployments.
+
+✨ **Always learning, always building. I am currently seeking my first professional challenge to apply my engineering skills in a Software Development or DevOps role.**
+
 
 ### 🛠️ My Tech Stack
 
