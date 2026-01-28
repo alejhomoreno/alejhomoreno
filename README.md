@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 🚀 Engineering & Development
+##  Engineering & Development
 
 ### ⚡ Telecommunications Engineering Student & Open Source Contributor
 I am a **7th-semester Telecommunications Engineering student** focused on building scalable backend systems and robust infrastructure. I bridge the gap between stable code and efficient deployment through my active contribution to the **Java and Cloud-Native ecosystem**.
