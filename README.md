@@ -22,7 +22,7 @@ I am a **7th-semester Telecommunications Engineering student** focused on buildi
 #### 💻 Development & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,python." />
   </a>
 </p>
 
